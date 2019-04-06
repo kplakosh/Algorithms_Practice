@@ -17,7 +17,6 @@ module.exports = reverseInt;
 
 // function reverseInt(n) {
 //     if (n < 0) {
-//         n *= -1;
 //         return parseInt(n.toString().split('').reverse().join('')) * -1;
 //     } else {
 //         return parseInt(n.toString().split('').reverse().join(''));
